@@ -4,11 +4,15 @@ How to set up and test?
 
 Simply clone the repo, and create the db 
 
-Run :   ``php spark migrate``
-        ``php spark db:seed ClientSeeder``
+Run :   
+``php spark migrate``
 
-Then:   ``webpack``
-        ``php spark serve``
+``php spark db:seed ClientSeeder``
+
+Then:   
+``webpack``
+
+``php spark serve``
 
 API Documentation available at:
 
