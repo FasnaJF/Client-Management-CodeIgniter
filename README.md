@@ -7,7 +7,8 @@ Simply clone the repo, and create the db
 Run :   ``php spark migrate``
         ``php spark db:seed ClientSeeder``
 
-Then:   ``php spark serve``
+Then:   ``webpack``
+        ``php spark serve``
 
 API Documentation available at:
 
